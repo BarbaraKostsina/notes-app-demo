@@ -1,0 +1,15 @@
+.BtnDiv{
+    margin-top: 5px;
+}
+
+.delBtn{
+    border-radius: 20px;
+    border: none;
+    background: #6a98dc;
+    color: #fdfdfd;
+    cursor: pointer;
+    
+}
+.delBtn:hover{
+    background: #496a9d;
+}

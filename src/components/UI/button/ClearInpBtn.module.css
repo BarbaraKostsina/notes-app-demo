@@ -1,0 +1,17 @@
+.delBtn{
+    width: 95px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+    background: #4f4ba8;
+    color: #fdfdfd;
+    font-size: 15px;
+    margin-left: 5px;
+    transition: ease-out .3s all;
+    cursor: pointer;
+}
+
+.delBtn:hover{
+    background: #312d89;
+    transition: ease-in .3s all;
+}

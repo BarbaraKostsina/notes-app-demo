@@ -1,0 +1,17 @@
+.noteItm{
+    width: 180px;
+    height: 250px;
+    border-radius: 5px;
+    background: #f1f7ff;
+    color: #2b4367;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 5px 3px;
+    padding: 3px 5px;
+    box-shadow: 5px 3px 3px #3e5880;
+}
+
+.Theme{
+    color: #0066ff;
+}

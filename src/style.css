@@ -1,0 +1,52 @@
+body{
+    background: #95b3df;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+ 
+}
+
+.App{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+}
+
+.Head{
+    color: #fdfdfd;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    height: 60px;
+    width: 200px;
+}
+
+.Form{
+    grid-column: 1/2;
+    background: #3a4f6e;
+    width: 280px;
+    height: 500px;
+    text-align: center;
+    color: #fdfdfd;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;   
+}
+
+
+.Notes{
+    width: 1200px;
+    padding-left: 5px;
+    margin-left: 5px;
+    border: 2px solid rgb(192, 209, 255);
+    border-radius: 5px;
+}
+
+.noNotes{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #fdfdfd;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

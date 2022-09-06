@@ -1,0 +1,21 @@
+.noteInp input{
+    width: 260px;
+    height: 50px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    text-align: start;
+    font-size: 15px;
+    outline: none;
+}
+
+.noteInp{
+    background: #5a79a4;
+}
+
+input.noteInp::placeholder{
+    color: #5a79a4;
+    align-self:flex-start;
+}
+
